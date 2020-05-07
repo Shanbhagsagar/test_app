@@ -1,6 +1,6 @@
 # README
 
-Complete Ruby on Rails developer
+First Test on repo on the Complete Ruby on Rails developer
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
